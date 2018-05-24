@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine learning algorithms
+Machine learning algorithms from the scratch
+-Rakend
